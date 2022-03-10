@@ -2,7 +2,7 @@
 #Whatsapp stock market bot. 
 #Using Python x Flask x Twilio x MarketStack x Ngrok
 
-Dependencies :
+Dependencies :<br>
 pip install flask
 pip install requests
 pip install twilio
